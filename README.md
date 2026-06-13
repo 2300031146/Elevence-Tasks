@@ -32,8 +32,7 @@
 ---
 
 ### **Task 2: Promotion Effectiveness**
-![Task 2: Promotion Effectiveness](Task2_Promotion_Effectiveness.png)
-
+promotion effectiveness trend analysis.pbix
 **Objective:** Evaluate the impact of promotional campaigns on sales performance.
 
 **Key Insights:**
