@@ -20,7 +20,6 @@
 ## 📊 Tasks Overview
 
 ### **Task 1: Pricing vs Satisfaction** ⏳ *PENDING*
-![Task 1: Pricing vs Satisfaction](Task1_Pricing_vs_Satisfaction.png)
 
 **Status:** 🔄 Pending  
 **Objective:** Investigate the correlation between product pricing and customer satisfaction levels.
@@ -33,7 +32,6 @@
 ---
 
 ### **Task 2: Promotion Effectiveness**
-![Task 2: Promotion Effectiveness](Task2_Promotion_Effectiveness.png)
 
 **Status:** ✅ Completed  
 **Objective:** Evaluate the impact of promotional campaigns on sales performance.
@@ -48,7 +46,6 @@
 ---
 
 ### **Task 3: Discount vs Rating**
-![Task 3: Discount vs Rating](Task3_Discount_vs_Rating.png)
 
 **Status:** ✅ Completed  
 **Objective:** Examine how discount levels influence product ratings and customer reviews.
@@ -63,7 +60,6 @@
 ---
 
 ### **Task 4: Financial Risk Assessment**
-![Task 4: Financial Risk](Task4_Financial_Risk.png)
 
 **Status:** ✅ Completed  
 **Objective:** Identify and quantify financial risk factors affecting business operations.
@@ -79,7 +75,6 @@
 ---
 
 ### **Task 5: Trust Weighted Rating System**
-![Task 5: Trust Weighted Rating](Task5_Trust_Weighted_Rating.png)
 
 **Status:** ✅ Completed  
 **Objective:** Develop and analyze customer trust metrics with weighted rating calculations.
@@ -95,7 +90,6 @@
 ---
 
 ### **Task 6: Context-Aware Price Banding**
-![Task 6: Context Aware Price Banding](Task6_Context_Aware_Price_Banding.png)
 
 **Status:** ✅ Completed  
 **Objective:** Implement intelligent price banding strategies based on contextual market factors.
@@ -176,16 +170,6 @@ This project demonstrates:
 - **Business Intelligence** understanding across e-commerce domains
 - **Strategic Thinking** in pricing and customer satisfaction optimization
 - **Professional Communication** through clear documentation and visual insights
-
----
-
-## 👥 About This Project
-
-**Internship Duration:** [Your Internship Period]  
-**Company:** [Company Name - if applicable]  
-**Role:** Data Analyst / Business Intelligence Intern
-
-This project was completed as part of my internship program and represents my capability to handle real-world business analytics challenges while delivering actionable insights.
 
 ---
 
