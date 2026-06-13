@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-**Elevence Tasks** is a comprehensive data visualization and analytics project completed during my internship. This repository showcases an in-depth analysis of e-commerce metrics, focusing on pricing strategies, customer satisfaction, and business intelligence insights. The project demonstrates proficiency in data analysis, visualization, and strategic business decision-making.
+**Elevence Tasks** is a comprehensive data visualization and analytics project completed during my internship. This repository showcases an in-depth analysis of e-commerce metrics, focusing on pricing strategies, promotional effectiveness, discount impact, financial risk assessment, trust-weighted ratings, and context-aware price banding.
 
 ---
 
@@ -19,9 +19,10 @@
 
 ## 📊 Tasks Overview
 
-### **Task 1: Pricing vs Satisfaction**
+### **Task 1: Pricing vs Satisfaction** ⏳ *PENDING*
 ![Task 1: Pricing vs Satisfaction](Task1_Pricing_vs_Satisfaction.png)
 
+**Status:** 🔄 Pending  
 **Objective:** Investigate the correlation between product pricing and customer satisfaction levels.
 
 **Key Insights:**
@@ -32,8 +33,9 @@
 ---
 
 ### **Task 2: Promotion Effectiveness**
+![Task 2: Promotion Effectiveness](Task2_Promotion_Effectiveness.png)
 
-
+**Status:** ✅ Completed  
 **Objective:** Evaluate the impact of promotional campaigns on sales performance.
 
 **Key Insights:**
@@ -41,11 +43,14 @@
 - Identification of high-performing promotional strategies
 - Assessment of campaign effectiveness metrics
 
+**Link:** [promotion-effectiveness-trend-analysis](https://github.com/2300031146/promotion-effectiveness-trend-analysis-)
+
 ---
 
 ### **Task 3: Discount vs Rating**
 ![Task 3: Discount vs Rating](Task3_Discount_vs_Rating.png)
 
+**Status:** ✅ Completed  
 **Objective:** Examine how discount levels influence product ratings and customer reviews.
 
 **Key Insights:**
@@ -53,11 +58,14 @@
 - Correlation between discount depth and review sentiment
 - Optimal discount strategies for maintaining product reputation
 
+**Link:** [Discount-vs-rating-analysis](https://github.com/2300031146/Discount-vs-rating-analysis)
+
 ---
 
 ### **Task 4: Financial Risk Assessment**
 ![Task 4: Financial Risk](Task4_Financial_Risk.png)
 
+**Status:** ✅ Completed  
 **Objective:** Identify and quantify financial risk factors affecting business operations.
 
 **Key Insights:**
@@ -66,11 +74,14 @@
 - Risk mitigation recommendations
 - Business continuity implications
 
+**Link:** [Financialy-risk-inventory-analysis](https://github.com/2300031146/Financialy-risk-inventory-analysis)
+
 ---
 
 ### **Task 5: Trust Weighted Rating System**
 ![Task 5: Trust Weighted Rating](Task5_Trust_Weighted_Rating.png)
 
+**Status:** ✅ Completed  
 **Objective:** Develop and analyze customer trust metrics with weighted rating calculations.
 
 **Key Insights:**
@@ -79,11 +90,14 @@
 - Customer reliability classification
 - Enhanced rating accuracy through trust factors
 
+**Link:** [Trust-Weighted-Rating-Analysis](https://github.com/2300031146/Trust-Weighted-Rating-Analysis)
+
 ---
 
 ### **Task 6: Context-Aware Price Banding**
 ![Task 6: Context Aware Price Banding](Task6_Context_Aware_Price_Banding.png)
 
+**Status:** ✅ Completed  
 **Objective:** Implement intelligent price banding strategies based on contextual market factors.
 
 **Key Insights:**
@@ -91,6 +105,8 @@
 - Dynamic price banding strategies
 - Context-aware pricing optimization
 - Competitive positioning recommendations
+
+**Link:** [Context-Aware-Price-Banding-Analysis](https://github.com/2300031146/Context-Aware-Price-Banding-Analysis)
 
 ---
 
@@ -146,9 +162,10 @@ Elevence-Tasks/
 ## 📈 How to Use This Repository
 
 1. **Review Each Task Sequentially:** Start with Task 1 and progress through Task 6 to understand the complete analysis flow
-2. **Examine Visualizations:** Each PNG file contains detailed charts and insights
-3. **Understand the Progression:** Notice how insights build from basic pricing analysis to advanced strategic recommendations
-4. **Apply Concepts:** Use the methodology and approaches for similar business analysis projects
+2. **Visit Task Links:** Click on the links provided in each task section to access detailed implementations
+3. **Examine Visualizations:** Each PNG file contains detailed charts and insights
+4. **Understand the Progression:** Notice how insights build from basic pricing analysis to advanced strategic recommendations
+5. **Apply Concepts:** Use the methodology and approaches for similar business analysis projects
 
 ---
 
@@ -164,19 +181,32 @@ This project demonstrates:
 
 ## 👥 About This Project
 
-**Internship Duration:** [Your Internship Period]
-**Company:** [Company Name - if applicable]
+**Internship Duration:** [Your Internship Period]  
+**Company:** [Company Name - if applicable]  
 **Role:** Data Analyst / Business Intelligence Intern
 
 This project was completed as part of my internship program and represents my capability to handle real-world business analytics challenges while delivering actionable insights.
 
 ---
 
+## 📊 Task Status Summary
+
+| Task # | Title | Status | Link |
+|--------|-------|--------|------|
+| 1 | Pricing vs Satisfaction | ⏳ Pending | — |
+| 2 | Promotion Effectiveness | ✅ Completed | [promotion-effectiveness-trend-analysis](https://github.com/2300031146/promotion-effectiveness-trend-analysis-) |
+| 3 | Discount vs Rating | ✅ Completed | [Discount-vs-rating-analysis](https://github.com/2300031146/Discount-vs-rating-analysis) |
+| 4 | Financial Risk Assessment | ✅ Completed | [Financialy-risk-inventory-analysis](https://github.com/2300031146/Financialy-risk-inventory-analysis) |
+| 5 | Trust Weighted Rating System | ✅ Completed | [Trust-Weighted-Rating-Analysis](https://github.com/2300031146/Trust-Weighted-Rating-Analysis) |
+| 6 | Context-Aware Price Banding | ✅ Completed | [Context-Aware-Price-Banding-Analysis](https://github.com/2300031146/Context-Aware-Price-Banding-Analysis) |
+
+---
+
 ## 📞 Contact & Information
 
 For questions or discussions about this project:
-- **GitHub:** [2300031146](https://github.com/2300031146)
-- **Repository:** [Elevence-Tasks](https://github.com/2300031146/Elevence-Tasks)
+- **GitHub:** [@2300031146](https://github.com/2300031146)
+- **Main Repository:** [Elevence-Tasks](https://github.com/2300031146/Elevence-Tasks)
 
 ---
 
@@ -186,6 +216,5 @@ This project is part of my internship portfolio. All content is proprietary and 
 
 ---
 
-**Last Updated:** June 2026
-**Status:** ✅ Completed
-
+**Last Updated:** June 2026  
+**Project Status:** 🔄 In Progress (Task 1 Pending)
