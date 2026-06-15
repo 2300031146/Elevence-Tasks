@@ -121,12 +121,15 @@ Elevence-Tasks/
 
 ---
 
-## 🛠️ Technologies & Tools Used
+## 🛠️ Technologies Used
 
-- **Data Analysis:** Python, Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
-- **Business Intelligence:** Power BI / Tableau
-- **Documentation:** GitHub Markdown
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query
+- Data Modeling & KPI Development
+- Interactive Dashboard Design
+- Business Analytics & Data Visualization
+- GitHub Documentation
 
 ---
 
