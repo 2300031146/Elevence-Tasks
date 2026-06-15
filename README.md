@@ -19,9 +19,9 @@
 
 ## 📊 Tasks Overview
 
-### **Task 1: ✅ Critical failure** 
+### **Task 1: Critical failure** 
 
-**Status:** Completed  
+**Status:** ✅ Completed  
 **Objective:** Investigate the correlation between product pricing and customer satisfaction levels.
 
 **Key Insights:**
