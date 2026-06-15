@@ -29,7 +29,7 @@
 - Identification of optimal price points for maximum satisfaction
 - Recommendations for pricing adjustments based on satisfaction metrics
 
-**Link:** [Critical failure](https://github.com/2300031146/critical failure)
+**Link:** [Critical failure](https://github.com/2300031146/Critical-failure)
 
 ---
 
