@@ -19,15 +19,17 @@
 
 ## 📊 Tasks Overview
 
-### **Task 1: Pricing vs Satisfaction** ⏳ *PENDING*
+### **Task 1: Critical failure** 
 
-**Status:** 🔄 Pending  
+**Status:** Completed  
 **Objective:** Investigate the correlation between product pricing and customer satisfaction levels.
 
 **Key Insights:**
 - Analysis of price elasticity and customer satisfaction
 - Identification of optimal price points for maximum satisfaction
 - Recommendations for pricing adjustments based on satisfaction metrics
+
+**Link:** [Critical failure](https://github.com/2300031146/critical failure)
 
 ---
 
