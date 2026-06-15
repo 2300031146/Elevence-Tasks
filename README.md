@@ -29,7 +29,7 @@
 - Identification of optimal price points for maximum satisfaction
 - Recommendations for pricing adjustments based on satisfaction metrics
 
-**Link:** [Pricing vs Satisfaction](https://github.com/2300031146/Pricing_vs_Satisfaction)
+**Link:** [Pricing vs Satisfaction](https://github.com/2300031146/Pricing-Satisfaction)
 
 ---
 
